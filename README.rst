@@ -47,7 +47,7 @@ submitted directly to the `bug tracker
 <https://github.com/pypa/setuptools/issues>`_.
 
 
-Code of Conduct
+Code of Conductt
 ===============
 
 Everyone interacting in the setuptools project's codebases, issue trackers,
